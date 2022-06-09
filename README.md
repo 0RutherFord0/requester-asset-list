@@ -1,4 +1,5 @@
 ## Your First App
+<img width="194" alt="image" src="https://user-images.githubusercontent.com/36890395/172899514-1d4811bb-7bff-4dba-b14a-ce77407a9c27.png">
 
 This app displays the name of the requester of a Freshservice ticket in the ticket_sidebar placeholder
 
