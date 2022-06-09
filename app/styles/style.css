@@ -1,0 +1,28 @@
+html {
+  box-sizing: border-box;
+}
+
+*,
+*:after,
+*::before {
+  box-sizing: inherit;
+}
+
+.app-body {
+  display: flex;
+  flex-flow: column wrap;
+  justify-content: center;
+  align-items: left;
+  font-family: Helvetica, sans-serif;
+  font-size: 1rem;
+}
+.app-body > div {
+  margin-bottom: 1em;
+}
+.app-body p {
+  margin: 0;
+}
+
+img {
+  max-width: 50px;
+}
